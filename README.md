@@ -1,14 +1,18 @@
 Hi, I’m Vishal 👋
+
 I’m currently pursuing a Bachelor of Computer Applications (BCA) with a keen interest in data science, data analysis, and stock market research. I enjoy solving problems, analyzing data, and creating meaningful insights that can drive decision-making.
+
 
 Interests & Goals
 🌟 Aspiring data scientist and research analyst in the stock market.
 📊 Passionate about finance, statistics, and building models for predictive analysis.
 💻 Exploring Python, SQL, and machine learning to enhance my technical expertise.
+
 What I’m Working On
 🚀 Building projects in data analysis and visualization.
 📚 Learning more about financial modeling and stock market dynamics.
 🧠 Developing skills in AI/ML for better financial insights.
+
 Skills
 Languages: Python, SQL
 Tools: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook

@@ -4,20 +4,33 @@ I’m currently pursuing a Bachelor of Computer Applications (BCA) with a keen i
 
 
 Interests & Goals
+
 🌟 Aspiring data scientist and research analyst in the stock market.
+
 📊 Passionate about finance, statistics, and building models for predictive analysis.
+
 💻 Exploring Python, SQL, and machine learning to enhance my technical expertise.
 
+
 What I’m Working On
+
 🚀 Building projects in data analysis and visualization.
+
 📚 Learning more about financial modeling and stock market dynamics.
+
 🧠 Developing skills in AI/ML for better financial insights.
 
+
 Skills
-Languages: Python, SQL
+
+Languages: Python, SQL,C,C++
+
 Tools: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
 Domain Knowledge: Finance, Stock Market Analysis
+
 Feel free to connect and collaborate!
+
 Let’s build something amazing together. 🌟
 
 

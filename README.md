@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vishal!
+# 👋 Hey, I'm Vishal Rajput!
 
 <div align="center">
 
